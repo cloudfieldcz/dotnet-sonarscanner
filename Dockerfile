@@ -1,3 +1,3 @@
-FROM valda/dotnet-sonarscanner:5
+FROM valda/dotnet-sonarscanner:6
 
 ENTRYPOINT ["/entrypoint.sh"]
